@@ -517,3 +517,7 @@ footer section{
     text-decoration: none;
     color: var(--just-white);
 }
+.footer-right img {
+    width: 80px;
+    height: 50px;
+}
