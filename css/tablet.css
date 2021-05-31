@@ -1,0 +1,13 @@
+.plans-container--slider {
+    justify-content: center;
+}
+.main-container--slider {
+    justify-content: center;
+}
+.main-product-detail {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+}
