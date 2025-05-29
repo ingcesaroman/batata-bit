@@ -50,7 +50,7 @@ const Button = styled(motion.a)`
 export const Header = () => {
   return (
     <HeaderContainer>
-      <Logo src="assets/img/logo.svg" alt="Batabit logo" />
+      <Logo src="./assets/img/logo.svg" alt="Batabit logo" />
       <Title
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
