@@ -7,7 +7,6 @@
 /coverage
 
 # Production
-/dist
 /build
 
 # Misc
